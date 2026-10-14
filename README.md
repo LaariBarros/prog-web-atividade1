@@ -2,6 +2,4 @@
 
 ## Esta é minha primeira pagina web desenvolvida na disciplina Programação Web 1.
 
-## Tecnologias Utilizadas - html
-- github
-- git
+## Tecnologias Utilizadas - html - git - github
